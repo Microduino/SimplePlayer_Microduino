@@ -1,4 +1,4 @@
- #include "JQ6500.h"
+ #include <JQ6500.h>
  #include "JQ6500_def.h"
 //用户自定义部分------------------------
 #include "key.h"
